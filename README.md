@@ -27,7 +27,9 @@ Also, The Drug Supply Chain Security Act (DSCSA) in 2013 requires that companies
 ## MediLedger as the Solution
 Chronicled has developed MediLedger which uses blockchain technology to solve problems mentioned above, and MediLedger was tested through the pilot project.  The participants of the pilot project includes; Chronicled as the solution provider, Amgen, Eli Lilly, Pfizer as manufacturers, Walgreens, Walmart, Maxor as dispensers, Cardinal Health, FFF Enterprises, Mckesson, AmerisourceBergen as wholesale distributors, FedEx, and Inmar as third-party logistics. MediLeder is a network which consist of private nodes and consensus nodes. Blockchain technology is used for the consensus nodes in MediLedger. 
 
-![Exhibit 1](\Exhibit_1v2.PNG)
+
+![Exhibit 1](Exhibit_1v2.PNG)
+
 Source: *MediLedger DSCSA Pilot Project by Matt Sample, VP Manufacturing Operations AmerisourceBergen*
 
 As the use of blockchain technology, the consensus nodes maintain immutable and transparent records, and the network participants can inquire the history of medicines to the system, not need to people to answer such inquiry.    
@@ -55,6 +57,21 @@ Application Programing Interface (API) is another aspect to consider for MedLedg
 While some challenges and concerns remain for the implementation of MediLedger, the participants in the pilot program are supporting the project to move forward. As the FDA’s new requirements would be effective in 2023, the progress of the project would be accelerated for the next couple of years, and MediLedger might be one of the must-have systems for the companies in the pharmaceutical industry. 
 
 
+Sources: 
 
+Chronicled's website https://www.chronicled.com/
 
+MediLedger's website https://www.mediledger.com/
+
+MediLedger DSCSA Pilot Project Final Report released February 2020 https://www.mediledger.com/fda-pilot-project
+
+Forbes "Will Blockchain Replace EDI?" written by Karthileyan Mani https://www.forbes.com/sites/forbestechcouncil/2019/04/03/will-blockchain-replace-edi-yes-and-no/?sh=42e9552747d7
+
+IBM's webste https://www.ibm.com/blockchain
+
+Sourcemap's website https://www.sourcemap.com/ 
+
+Skuchain's website https://www.skuchain.com/
+
+Kinaxis's website https://www.kinaxis.com/en
 
