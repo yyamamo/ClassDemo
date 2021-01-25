@@ -1,14 +1,57 @@
-# First Assgnment
-## Blockchain Technology to Immprove B2B trancation
-### Blockchain technology is widely known as the technology used for cryptocurrencies. However, that technology can be applied for so many ways.  
-**Research** 
-*research*
+# Blockchain Technology in the Pharmaceutical Supply Chain
+## Researched Company: Chronicled !
+ [Link to Chronicled's Website](https://www.chronicled.com/)
+### *by Yoko Yammamoto*
 
-----
-'what shoud  write'
-> "Quote" 
+--------
 
-[![] (https://www.youtube.com/watch?v=8OUhCL1eBHE)
+## Overview and Origin 
+Blockchain technology is widely known as the technology used for cryptocurrencies. 
+
+  > Quote: Blockchain is a decentralized, distributed, and oftentimes public, digital ledger consisting of records called blocks that is used to record transactions across many computers so that any involved block cannot be altered retroactively, without the alteration of all subsequent blocks. This allows the participants to verify and audit transactions independently and relatively inexpensively. (Wikipedia)
+
+That technology has started being applied to variety of areas in our lives such as property transactions, voting process, virtual assets in the gaming industry, and supply chain management. In this research project, I chose a company named, Chronicled which utilizes blockchain technology for the supply chain management in the pharmaceutical industry. 
+
+Chronicled was incorporated by Ryan Orr, Chairman and Maurizio Greco, CTO in 2014. The CEO is Susanne Somerville. The headquarter is in San Francisco, California, estimated number of employee is 67, and estimated annual revenue is $4 million ($59.7K in revenue per employee)   
+
+Chronicled has raised a $16 million Series A funding led by Mandra Capital in January 2019. They has raised tottal of $28 million since its inception. 
+
+## Business Activities: What Chronicled is trying to solve? 
+
+Chronicled is trying to solve problems which companies in the pharmaceutical supply chain are facing as well as to meet enhanced regulatory requirements.  
+
+Contract and chargeback disputes always exist in the multiple levels in the pharmaceutical supply chain. Today transactions in the pharmaceutical supply chain are monitored through each company’s separate ledgers / systems which makes difficult to track records throughout the channel.  When discrepancies happen at shipments and billings, each company must investigate a transaction individually. Such investigation costs labor and time, and results in financial loss.  
+
+Also, The Drug Supply Chain Security Act (DSCSA) in 2013 requires that companies in a pharmaceutical supply chain including manufacturers, repackagers, wholesalers and dispensers to ensure all prior transaction information at each transfer of ownership. They are also required to implement systems to monitor transactions, to ensure security of medicines, to investigate suspicious products, and to report to FDA and trading partners when necessary by 2023.  
+
+## MediLedger as the Solution
+Chronicled has developed MediLedger which uses blockchain technology to solve problems mentioned above, and MediLedger was tested through the pilot project.  The participants of the pilot project includes; Chronicled as the solution provider, Amgen, Eli Lilly, Pfizer as manufacturers, Walgreens, Walmart, Maxor as dispensers, Cardinal Health, FFF Enterprises, Mckesson, AmerisourceBergen as wholesale distributors, FedEx, and Inmar as third-party logistics. MediLeder is a network which consist of private nodes and consensus nodes.  Blockchain technology is used for the consensus nodes. 
+
+![Exhibit 1](C:\Users\yyamamoto\Desktop\ClassDemo-main\Exhibit_1.PNG)
+
+As the use of blockchain technology, the consensus nodes maintain immutable and transparent records, and the network participants can inquire the history of medicines to the system, not need to people to answer such inquiry.    
+
+## Competitors 
+I could not find another blockchain developer which focus on improving the pharmaceutical supply chain.  However, [**IBM**](https://www.ibm.com/blockchain) have been working on developing blockchain platform in the food supply chain and container logistic solution.  
+
+As a more smaller start-ups, [**Sourcemap**](https://www.sourcemap.com/) and [**Skuchain**](https://www.skuchain.com/) are working on developing blockchain platform for various industries including aerospace, automotive, food & agriculture, ennagy and banking & financial industries.
+
+[**Kinaxis**](https://www.kinaxis.com/en) is a Canadian software company who provide supply chain management solution.
+
+[**HICX**](https://www.hicx.com/) is a Chicago based supply chain solution provider.
+
+## Challenges and Recommendations
+
+Metrix to success can be measured by the number of participants in the network.  However, there is a concern on anti-trust issues for the development of the platform.  For small distributors and dispensers who cannot afford to participate in the network, it would be huge disadvantage to complete in the market. It should build the platform for any size of companies to be accessible equally. 
+
+Privacy and security are another concern for MediLedger to be implemented widely.  The report of the MediLedger pilot project said that it can be met by using “zero knowledge proof” technology, a set of tools that allow an item of information to be validated without the need to expose the data that demonstrate it by using cryptographic algorithms 
+
+It would be good to provide Application Programing Interface (API) solutions for the network participants as the information in MediLedger automatically imported/exported to the participants’ systems for streamlied processes.    
+
+## Conclusion
+While some challenges and concerns remain for the implementation of MediLedger, the participants in the pilot program are supporting the project to move forward. As the FDA’s new requirements would be effective in 2023, the progress of the project would be accelerated, and MediLedger might be one of the must have application for the companies in the pharmaceutical industry.    
+
+
 
 
 
