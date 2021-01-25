@@ -1,5 +1,5 @@
 # Blockchain Technology in the Pharmaceutical Supply Chain
-## Researched Company: Chronicled !
+## Researched Company: Chronicled
  [Link to Chronicled's Website](https://www.chronicled.com/)
 ### *by Yoko Yammamoto*
 
@@ -25,14 +25,17 @@ Contract and chargeback disputes always exist in the multiple levels in the phar
 Also, The Drug Supply Chain Security Act (DSCSA) in 2013 requires that companies in a pharmaceutical supply chain including manufacturers, repackagers, wholesalers and dispensers to ensure all prior transaction information at each transfer of ownership. They are also required to implement systems to monitor transactions, to ensure security of medicines, to investigate suspicious products, and to report to FDA and trading partners when necessary by 2023.  
 
 ## MediLedger as the Solution
-Chronicled has developed MediLedger which uses blockchain technology to solve problems mentioned above, and MediLedger was tested through the pilot project.  The participants of the pilot project includes; Chronicled as the solution provider, Amgen, Eli Lilly, Pfizer as manufacturers, Walgreens, Walmart, Maxor as dispensers, Cardinal Health, FFF Enterprises, Mckesson, AmerisourceBergen as wholesale distributors, FedEx, and Inmar as third-party logistics. MediLeder is a network which consist of private nodes and consensus nodes.  Blockchain technology is used for the consensus nodes. 
+Chronicled has developed MediLedger which uses blockchain technology to solve problems mentioned above, and MediLedger was tested through the pilot project.  The participants of the pilot project includes; Chronicled as the solution provider, Amgen, Eli Lilly, Pfizer as manufacturers, Walgreens, Walmart, Maxor as dispensers, Cardinal Health, FFF Enterprises, Mckesson, AmerisourceBergen as wholesale distributors, FedEx, and Inmar as third-party logistics. MediLeder is a network which consist of private nodes and consensus nodes. Blockchain technology is used for the consensus nodes in MediLedger. 
 
-![Exhibit 1](C:\Users\yyamamoto\Desktop\ClassDemo-main\Exhibit_1.PNG)
+![Exhibit 1](\Exhibit_1v2.PNG)
+Source: *MediLedger DSCSA Pilot Project by Matt Sample, VP Manufacturing Operations AmerisourceBergen*
 
 As the use of blockchain technology, the consensus nodes maintain immutable and transparent records, and the network participants can inquire the history of medicines to the system, not need to people to answer such inquiry.    
 
 ## Competitors 
-I could not find another blockchain developer which focus on improving the pharmaceutical supply chain.  However, [**IBM**](https://www.ibm.com/blockchain) have been working on developing blockchain platform in the food supply chain and container logistic solution.  
+I could not find another blockchain developer which focus on improving the pharmaceutical supply chain.  However, I found several blockchain solution developpers in the different industries. 
+
+[**IBM**](https://www.ibm.com/blockchain) have been working on developing blockchain platform in the food supply chain and container logistic solution.  
 
 As a more smaller start-ups, [**Sourcemap**](https://www.sourcemap.com/) and [**Skuchain**](https://www.skuchain.com/) are working on developing blockchain platform for various industries including aerospace, automotive, food & agriculture, ennagy and banking & financial industries.
 
@@ -44,12 +47,12 @@ As a more smaller start-ups, [**Sourcemap**](https://www.sourcemap.com/) and [**
 
 Metrix to success can be measured by the number of participants in the network.  However, there is a concern on anti-trust issues for the development of the platform.  For small distributors and dispensers who cannot afford to participate in the network, it would be huge disadvantage to complete in the market. It should build the platform for any size of companies to be accessible equally. 
 
-Privacy and security are another concern for MediLedger to be implemented widely.  The report of the MediLedger pilot project said that it can be met by using “zero knowledge proof” technology, a set of tools that allow an item of information to be validated without the need to expose the data that demonstrate it by using cryptographic algorithms 
+Privacy and security are another concern for MediLedger to be implemented widely.  The report of the MediLedger pilot project states that it can be solved by using “zero knowledge proof” technology, a set of tools that allow an item of information to be validated without the need to expose the data that demonstrate it by using cryptographic algorithms. 
 
-It would be good to provide Application Programing Interface (API) solutions for the network participants as the information in MediLedger automatically imported/exported to the participants’ systems for streamlied processes.    
+Application Programing Interface (API) is another aspect to consider for MedLedger's success. The network participants have been using their own systems, and they need to communucate MediLedger network for streamlied processes.    
 
 ## Conclusion
-While some challenges and concerns remain for the implementation of MediLedger, the participants in the pilot program are supporting the project to move forward. As the FDA’s new requirements would be effective in 2023, the progress of the project would be accelerated, and MediLedger might be one of the must have application for the companies in the pharmaceutical industry.    
+While some challenges and concerns remain for the implementation of MediLedger, the participants in the pilot program are supporting the project to move forward. As the FDA’s new requirements would be effective in 2023, the progress of the project would be accelerated for the next couple of years, and MediLedger might be one of the must-have systems for the companies in the pharmaceutical industry. 
 
 
 
